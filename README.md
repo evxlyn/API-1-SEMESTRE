@@ -1,5 +1,8 @@
-# API-1-SEMESTRE
-Repositório de dados da API do 1° semestre em Logística. Fatec Jessen Vidal.
+# API 1° SEMESTRE
+Repositório dos dados da API do 1° semestre em Logística. Fatec Jessen Vidal.
+
+
+
 # Mapeamento Potencial
 <p align="center"> 
 API 1° Semestre - Logística Noturno
